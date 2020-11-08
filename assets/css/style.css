@@ -48,7 +48,7 @@ body {
 }
 /* Hero Style End */
 
-/* Content Start*/
+/* Content Start */
 .content {
     width: 75%;
     display: inline-block;
@@ -59,11 +59,13 @@ body {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    display: inline-block;
+    display: flex;
 }
 
 .content-section-heading {
-    float: left;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
     width: 25%;
     border-right: 3px solid #333;
     margin-right: 20px;
@@ -71,16 +73,20 @@ body {
 }
 
 .content-section-body {
-    float: right;
     width: 70%;
 }
 
-.content-section div ul {
-    list-style-type: none;
+.work-flexbox {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
-.content-section div ul li {
-    display: inline-block;
-    margin-left: 25px;
+.contact-item {
+    display: flex;
+    justify-content: space-between;
 }
+
 /* Content End*/
