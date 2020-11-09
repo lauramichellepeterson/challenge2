@@ -7,4 +7,4 @@ Personal Portfolio of Projects
 https://github.com/lauramichellepeterson/challenge2
 
 
-![challenge-2-screenshot](/challenge2/assets/images/Laura Michelle Peterson Portfolio.png)
+![challenge-2-screenshot](assets/images/Laura Michelle Peterson Portfolio.png)
