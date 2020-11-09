@@ -1,9 +1,10 @@
 # challenge2
+https://lauramichellepeterson.github.io/lauramichellepeterson.github.io-challenge2/
 
 ## Description:
 Personal Portfolio of Projects
 
-**Original working repo:**
+**Github repo:**
 https://github.com/lauramichellepeterson/lauramichellepeterson.github.io-challenge2
 
 
